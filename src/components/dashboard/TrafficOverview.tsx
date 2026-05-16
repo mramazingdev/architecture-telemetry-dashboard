@@ -1,5 +1,4 @@
-import React from 'react';
-import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
+import { TrendingUp, Users } from 'lucide-react';
 
 export default function TrafficOverview() {
   // Mock data representing throughput over the last 24 hours

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Settings, Save, ShieldCheck } from 'lucide-react';
+import { Settings, Save } from 'lucide-react';
 
 export default function SettingsView() {
   const [profileName, setProfileName] = useState('Alex Thompson');

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Server, Database, Shield, Radio, Activity, Cpu } from 'lucide-react';
+import { Server, Database, Shield, Radio, Cpu } from 'lucide-react';
 
 interface NodeItemProps {
   name: string;

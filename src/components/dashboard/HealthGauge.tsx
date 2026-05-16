@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface HealthGaugeProps {
   score: number; // Value from 0 to 100
   title: string;

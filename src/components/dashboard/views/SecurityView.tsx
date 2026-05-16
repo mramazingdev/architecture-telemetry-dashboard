@@ -1,4 +1,4 @@
-import { ShieldAlert, Terminal, Lock } from 'lucide-react';
+import { ShieldAlert, Terminal } from 'lucide-react';
 
 export default function SecurityView() {
   const auditLogs = [
