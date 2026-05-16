@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  /* High-end Dashboard Palette */
+  --color-space-dark: #0B0E14;
+  --color-space-card: #161B22;
+  --color-accent-blue: #3B82F6;
+  --color-accent-green: #10B981;
+  --color-border-gray: #30363D;
+  
+  /* Adding a mature gold accent for your architecture nodes */
+  --color-brand-gold: #f59e0b;
+}
+
+:root {
+  background-color: var(--color-space-dark);
+  color: #f8fafc;
+}
